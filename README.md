@@ -2,9 +2,6 @@
 
 This repository contains the frontend-only version of an Amazon clone, designed to replicate the user interface and layout of the Amazon homepage. It showcases various product categories and a responsive design, similar to the features found on the Amazon website.
 
-## Demo here
-https://amazonclone-flax-chi.vercel.app/
-
 ## Features
 
 - **Responsive Layout**: The design adapts seamlessly to different screen sizes, providing a smooth browsing experience on both desktop and mobile.
